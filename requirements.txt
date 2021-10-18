@@ -1,0 +1,4 @@
+cdifflib
+spacy
+pip install spacyopentapioca
+python -m spacy download en_core_web_lg

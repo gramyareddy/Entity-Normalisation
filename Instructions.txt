@@ -1,0 +1,31 @@
+Part1
+=======
+
+
+1. INSTALL REQUIREMENTS
+2. OPEN THE TERMINAL AT Part1\\ and run:
+
+	python VectorAI_assignment_part1.py [args] [values]
+
+3. args:
+-c  : company name
+-a  : address
+-l  : location
+-s  : serial number
+-g  : goods
+
+4.input  strings seperated by space
+
+REFER Part1\\sample_inputs.txt for sample commands
+
+PART2
+=====
+
+1.. OPEN THE TERMINAL AT Part2\\ and run:
+
+	python VectorAI_assignment_part2.py 
+
+
+Takes the stream from (input_stream.txt)
+
+
