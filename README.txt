@@ -74,10 +74,6 @@ output_list_indices_dict = {}
 
 
 This obviously doesnt work for all cases , especially if the entity (organisation name or location) is not there in Spacy's KB . 
-Have attached a test report of the few cases I was able to test. I had work yesterday as World Cup is coming and KT is pending a bit. 
-Besides, I had to learn basics of NLP to understand and then design this. 
-Please let me know your feedback.
-
 
 
 
